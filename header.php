@@ -149,9 +149,7 @@
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 
 <!-- Adobe Analytics -->
-<script 
-src="//assets.adobedtm.com/9d799723fb681f246e7d4d8e9f3a613af54bd1c5/satelli
-teLib-c5a31e9b45d647e3bca745d00e4d721d21d9da69.js"></script>
+<script src="//assets.adobedtm.com/9d799723fb681f246e7d4d8e9f3a613af54bd1c5/satelliteLib-60cec8d99eb79ea3437496fb0faf6d17bf71f4b8.js"></script>
 
 <!-- WP_Head -->
 
